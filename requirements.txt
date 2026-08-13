@@ -1,0 +1,7 @@
+requests
+scapy
+pyfiglet
+termcolor
+tqdm
+shodan
+beautifulsoup4
